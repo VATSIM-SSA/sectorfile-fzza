@@ -1,0 +1,67 @@
+// ##################################################################
+//                 VATSSA | FIR FZZA | TopSky | SSRCodes
+// ##################################################################
+
+// Version v0.1
+// Update Date 28/08/2022
+
+
+// ##################################################################
+//                 FZZA KINSHASA
+// ##################################################################
+
+// FIR TRANSIT
+RANGE:4500:4577
+PRIORITY:3
+NOTADEP:FZ
+NOTADES:FZ
+IFR
+
+
+// ##################################################################
+//                 FZ DEMOCRATING REPUBLIC OF CONGO
+// ##################################################################
+
+// FZ DOMESTIC
+RANGE:7200:7277
+PRIORITY:3
+ADEP:FZ
+ADES:FZ
+IFR
+
+RANGE:5400:5477
+PRIORITY:2
+ADEP:FZ
+ADES:FZ
+IFR
+
+RANGE:4700:4777
+PRIORITY:1
+ADEP:FZ
+ADES:FZ
+IFR
+
+RANGE:5300:5377
+PRIORITY:1
+ADEP:FZ
+ADES:FZ
+IFR
+
+// FZ INTERNATIONAL OUTBOUND
+RANGE:4500:4577
+PRIORITY:3
+ADEP:FZ
+NOTADES:FZ
+IFR
+
+// FZ INTERNATIONAL INBOUND
+RANGE:4500:4577
+PRIORITY:3
+NOTADEP:FZ
+ADES:FZ
+IFR
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################
