@@ -1,0 +1,34 @@
+===== FZAA Delivery =====
+
+==== IFR Clearance Rules ====
+
+* We have not implemented any specific IFR Clearance or Flight Plan Validation rules at this point.
+
+
+==== Cruise Level Rules ====
+
+  * Nigerian Airspace operates with the following RVSM standard table of Cruising Levels.
+
+  * VFR flights are not allowed over and above the flight level 150 (DOC 7030 ICAO).
+
+{{page>icao-cruiselevels#RVSM Feet}}
+
+
+==== Departure Procedures & Initial Climbs ====
+
+<code>SECTION NOT YET UPDATED. PLEASE IGNORE</code>
+
+^ RWY ^ Fix ^ Departure ^ Type ^ Initial Climb ^ Remarks^
+| 18R | BUDSI | BUDS1Q | RNAV Departure | FL070 | - |
+| ::: | IBA | IBA1Q | ::: | FL070 | - |
+| ::: | ILKEL | ILKE1Q | ::: | FL070 | - |
+| ::: | UMUNA | UMUN1Q | ::: | FL070 | - |
+| ::: | BOTBO | BOTB1Q | ::: | FL070 | - |
+| ::: | PISBA | PISB1Q | ::: | FL070 | - |
+| ::: | POLTO | POLT1Q | ::: | FL070 | - |
+| 18L | BUDSI | BUDS1S | ::: | FL070 | - |
+| ::: | IBA | IBA1S | ::: | FL070 | - |
+| ::: | UMUNA | UMUN1S | ::: | FL120 | - |
+| ::: | UMUNA | UMUN2S | ::: | FL070 | - |
+
+{{page>fz-footer#FZAA}}

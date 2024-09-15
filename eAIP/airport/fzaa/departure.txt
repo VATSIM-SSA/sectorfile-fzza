@@ -1,0 +1,23 @@
+===== FZAA Departure =====
+
+<code>SECTION NOT YET UPDATED. PLEASE IGNORE</code>
+
+  * FZAA doesn't have a dedicated Departure Position, with Lagos Approach (FZAA APP) assuming the role of Departure.
+
+
+==== Departure Procedures ====
+
+<code>SECTION NOT YET UPDATED. PLEASE IGNORE</code>
+
+  * All aircraft are required to fly the assigned SID given by ATC. Controllers may issue continuous climb instructions to FL150. Further climb instructions may be issued to FL250 if no controller is above or other FL if coordinated prior.
+
+
+==== Coordinating DNIB Departures ====
+
+<code>SECTION NOT YET UPDATED. PLEASE IGNORE</code>
+
+  * All departures departing out of DNIB shall be given runway heading with an initial climb of FL050.
+  * Departures out of DNIB to the north should be sent to FZAA/ DNKK_CTR.
+
+
+{{page>fz-footer#FZAA}}

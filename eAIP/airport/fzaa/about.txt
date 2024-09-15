@@ -1,0 +1,73 @@
+===== FZAA Information =====
+
+Nnamdi Azikiwe International Airport is an international airport serving Abuja, in the Federal Capital Territory of [[Nigeria]],. It is the main airport serving the Nigerian capital city and was named after Nigeria's first President, Nnamdi Azikiwe. The airport is approximately 20 km (12 mi) southwest of the city centre, and has an international and a domestic terminal that share its single runway.
+
+==== Aerodrome Data ====
+
+| ICAO                  | FZAA |
+| IATA                  | ABV |
+| Elevation             | 1122 ft |
+| Transition Altitude   | 5000 ft |
+| Transition Level      | FL65 |
+| Mag Variation         | 0º |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Nnamdi_Azikiwe_International_Airport&params=9_00_24_N_7_15_47_E_type:airport_region:NG|9°00′24″N 7°15′47″E]] |
+| Site | [[https://faan.gov.ng/]] |
+
+
+==== Runways ====
+
+<code>SECTION NOT YET UPDATED. PLEASE IGNORE</code>
+
+^ Runway    ^ Heading   ^ TORA (m)  ^ TODA (m)  ^ ASDA (m)  ^ LDA (m)   ^ Remarks ^
+| 04       | 001º      | 2745      | 2745      | 2805      | 2745      | - |
+| 22       | 181º      | 2745      | 2745      | 2788      | 2745      | - |
+
+
+==== Aprons ====
+
+<code>SECTION NOT YET UPDATED. PLEASE IGNORE</code>
+
+^ Apron Type            ^ Code  ^ Stands    ^ Entry / Exit  ^ Remarks ^
+| International 1       | -     | D31-E66   | F1-F2-F3-F4   | - |
+| International 2       | -     | C11-C24A  | F5            | - |
+| Domestic 1            | -     | 1-6       | C2            | - |
+| Domestic 2            | -     | A1-B8     | C             | - |
+| Cargo                 | -     | -         | A             | - |  
+| Business / FBO        | -     | -         | B4            | - |
+| General Aviation      | -     | -         | C2-C          | - |
+| Presidential / VIP    | -     | -         | C             | - |
+| Military              | -     | -         | C             | - |
+| |||||
+| //Be aware of the similar stand numbers for International 2 and Domestic 2.// |||||
+
+
+
+==== Positions & Frequencies ====
+
+<code>SECTION NOT YET UPDATED. PLEASE IGNORE</code>
+
+^ Position      ^ Callsign          ^ Frequency ^ Remarks ^
+| FZAA_ATIS     | Lagos ATIS        | 123.800   | - |
+| FZAA_DEL      | Lagos Delivery    | 119.100   | //SSA Events Only// |
+| FZAA_P_DEL    | Lagos Planner     | 119.700   | //SSA Events Only// |
+| FZAA_GND      | Lagos Ground      | 121.900   | - |
+| FZAA_E_GND    | Lagos Ground      | 121.100   | //SSA Events Only// |
+| FZAA_TWR      | Lagos Tower       | 118.100   | - |
+| FZAA_APP      | Lagos Approach    | 124.700   | - |
+| FZAA_CTR      | Lagos East        | 120.900   | //FIR Split// |
+| DNKK_CTR      | Kano East         | 124.100   | - |
+
+
+==== Airspace ====
+
+<code>SECTION NOT YET UPDATED. PLEASE IGNORE</code>
+
+^ Airspace      ^ Class ^ Owner ^ Limits        ^ Remarks ^
+| Lagos CTR     | D | FZAA_TWR | GND - A015     | - |
+| Lagos TMA     | B | FZAA_APP | A015 - FL145   | - |
+| Lagos ACC     | B | FZAA_CTR | FL045 - FL145  | - |
+| Lagos ACC     | A | FZAA_CTR | FL145 - FL460  | //FIR Split// |
+| Kano FIR/UIR  | A | DNKK_CTR | FL145 - UNLTD  | - |
+
+
+{{page>fz-footer#FZAA}}

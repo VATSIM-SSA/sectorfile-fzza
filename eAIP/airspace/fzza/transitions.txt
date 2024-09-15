@@ -1,0 +1,9 @@
+===== FZZA Kinshasa Transition Table =====
+
+{{page>ssa-transition-table#Dynamic Transition}}
+
+
+{{page>ssa-transition-table#FZZA}}
+
+
+{{page>fz-footer#FZZA}}

@@ -1,0 +1,6 @@
+===== FZAA | N'Djili Intl | Kinshasa, Congo, Democratic Republic =====
+
+{{tabembed>about|About,delivery|Delivery,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts,scenery|Scenery,briefing|Briefing}}
+
+
+{{page>fz-footer#Congo, Democratic Republic}}

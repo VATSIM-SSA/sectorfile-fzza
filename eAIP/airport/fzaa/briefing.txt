@@ -1,0 +1,58 @@
+===== FZAA Pilot Briefing =====
+
+<code>SECTION NOT YET UPDATED. PLEASE IGNORE</code>
+
+Pilots taking part in events that depart from or arrive to FZAA should make themselves familiar with this briefing page as well as with all existing charts.
+
+==== Overview ====
+
+==== Departure Briefing ====
+
+  * When connecting to the network, take care in observing which gates and parking positions are available.
+
+=== Departure Timeline ===
+
+  * For Cross the Pond flights, your slot time is represented as a CTOT (Calculated Take off Time).
+  * You'll be expected to push-back at TOBT (Target Off Block Time) between 15 and 20 minutes before CTOT (depending on how the traffic is flowing at that time).
+  * As far as Clearance is concerned, you can request it at any time before TOBT, as long as you'll be ready for push-back at TOBT. We suggest you request your clearance at least 15 minutes before TOBT.
+  * You should not need to connect to the network more than 60 minutes before your CTOT.
+
+
+=== Clearance Delivery ===
+
+  * FZAA_DEL will be the Position responsible for providing you with a Departure Clearance.
+  * For Cross the Pond flights, pilots will be given a Cruise Flight Level that allows for en-route separation. It might not match your Requested Flight Level.
+  * You may be given a Runway Heading as a Departure Procedure.
+  * If you're parked East of runway 18L, you will depart from runway 18L. If parked at the Main International Apron, you will depart runway 18R.
+
+
+=== Ground Operations ===
+
+  * FZAA_GND will be the Position responsible for providing push-back and taxiing instructions.
+  * FZAA_E_GND may be opened to facilitate Ground Operations east of runway 18L.
+  * Remember to squawk Mode C before taxiing.
+  * If told to monitor a frequency, you're expected to tune in the frequency but not to contact the controller. He will contact you when able.
+  * When approaching the runway, you'll be asked to report fully ready for departure. That means that when given line-up or take-off clearance, you're expected to be ready to do so without delay. If you need more time, please advise the tower.
+
+=== Departure Operations ===
+
+  * Comply with your assigned departure procedure and do not climb above your initial Climb Altitude unless instructed so.
+  * You may be given intermediate climb instructions due to traffic. Do not climb above any assigned flight level.
+  * Comply with any speed restrictions if provided. They are important to maintain adequate separation between traffic.
+  * You may be transferred from Tower directly to Accra Control. That's ok.
+
+
+=== Oceanic Operations ===
+
+  * For Accra and Dakar Oceanic flights, you will not be required to request an Oceanic Clearance.
+  * You will be requested however to maintain your Flight Level and an assigned Mach Number.
+  * During Oceanic En-route, you'll be able to request higher flight levels, depending on availability.
+  * Position Reports will not be required. You may be requested from Oceanic Controllers to provide your ETO (Expected Time Overhead) for a specific waypoint. What the Controller is expecting is your time (as in, 1615z) at the specific waypoint.
+  * Remain on your last ATC assigned squawk code until instructed otherwise.
+  * Dakar Oceanic operates in an HF simulated frequency. As a pilot, you just need to tune your assigned VHF frequency, but beware that there might be some bad audio coverage spots (we hope not).
+  * CPDLC is available at Accra, Accra Oceanic, Dakar, Dakar Oceanic, Roberts and Sal Oceanic, but it might not be available at either the Cayenne FIR (flights to Bogota) or the Atlantico FIR (flights to São Paulo or Buenos Aires).
+  * SELCAL is also available at Accra, Accra Oceanic, Dakar, Dakar Oceanic, Roberts and Sal Oceanic.
+  * SLOP (Strategic Lateral Offset Procedure) is also available at Accra, Accra Oceanic, Dakar, Dakar Oceanic, Roberts and Sal Oceanic.
+
+
+{{page>fz-footer#FZAA}}

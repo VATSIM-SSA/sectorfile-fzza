@@ -1,0 +1,52 @@
+===== FZAA Ground =====
+
+==== Push-back Procedures ====
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Pushback Approved}}
+
+=== Directions ===
+
+<code>SECTION NOT YET UPDATED. PLEASE IGNORE</code>
+
+^ Apron ^ Type ^ Facing ^ Remarks ^
+| International 1 | All | North | - |
+| International 2 | All | East | - |
+| Domestic 1 | All | West |
+| Domestic 2 | All | A1-A6, B5-B8 North/ South, B1-B4 West | - |
+| Cargo | All | North/ South | - |
+
+
+==== Taxi Out Procedures ====
+
+<code>SECTION NOT YET UPDATED. PLEASE IGNORE</code>
+
+  * When runway 01 is active, departing traffic shall be instructed to taxi to the runway via C and hold short H, allowing Tower Controllers to issue further instructions to taxi to C6 or C7 based on preferential departure separation.
+
+  * When runway 19 is active, departing traffic shall be instructed to taxi to the runway via C and contact Tower after passing A1, allowing Tower Controllers to issue further instructions to taxi to C1 or C2 based on preferential departure separation.
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Taxi to HP}}
+
+
+==== Taxi In Procedures ====
+
+<code>SECTION NOT YET UPDATED. PLEASE IGNORE</code>
+
+  * In low traffic situations, Tower Controllers are expected to hand over arrival traffic to Ground Controllers once the traffic has vacated the runway. 
+
+  * In high traffic situations, in order to maintain the high speed exits clear of traffic, Tower Controllers may issue an initial taxi instruction to arrival traffic before handover to Ground Controllers.
+
+  * If runway 19 is active and traffic is vacating C5, the following instruction may be issued by the Tower Controller.
+
+  * The exception with this rule is traffic landing on runway 19 and wishing to vacate at the end to Apron V. In this situation, Tower Controllers will maintain control of the aircraft.
+
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Taxi to Stand}}
+
+
+{{page>fz-footer#FZAA}}

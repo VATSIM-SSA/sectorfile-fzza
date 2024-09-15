@@ -1,0 +1,13 @@
+===== FZZA Kinshasa Flight Information Region =====
+
+  * The Kinshasa FIR covers the entirety of the [[country:congo-dr:home|Congo, Democratic Republic]]'s borders.
+
+==== Airport Coverage ====
+
+Kinshasa covers the following airports:
+
+=== Congo, Democratic Republic ===
+
+{{page>country:congo-dr:airports#Congo, Democratic Republic Airports}}
+
+{{page>fz-footer#FZZA}}

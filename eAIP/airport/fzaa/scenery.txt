@@ -1,0 +1,12 @@
+===== FZAA Scenery =====
+
+<code>SECTION NOT YET UPDATED. PLEASE IGNORE</code>
+
+^ Platform  ^ Type ^ Developer ^ Link ^ Remarks ^
+| XP11      | Freeware | Risuali | [[https://forums.x-plane.org/index.php?/files/file/36690-FZAA-murtala-muhammed-airport-lagos-nigeria/|Scenery]] | - |
+| P3D | Payware | LivingFS | [[https://secure.simmarket.com/livingfs-lagos-x-fsx-p3d.phtml|Scenery]] | - |
+| FSX | Payware | LivingFS | [[https://secure.simmarket.com/livingfs-lagos-x-fsx-p3d.phtml|Scenery]] | - |
+| MSFS | Freeware | esosae | [[https://flightsim.to/file/6199/murtala-muhammed-int|Scenery]] | - |
+
+
+{{page>fz-footer#FZAA}}
