@@ -1,6 +1,8 @@
 {
-	"Name": "FZAA Kinshasa FIR v2",
-	"Composites": [
+	"Name": "FZAA Kinshasa FIR v3",
+	"updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fzaa/refs/heads/main/vATIS/FZAA.json",
+	"updateSerial": 2025061201,
+	"stations": [
 		{
 			"Name": "Kinshasa N'Djili",
 			"Identifier": "FZAA",
